@@ -1,0 +1,12 @@
+h1, h2 {
+    width: auto;
+    background-color: black;
+    color: white;
+}
+
+.page {
+    padding: 90px 65px;
+    border: 1px solid black;
+    font-weight: bold ;
+    font-family: 'Times New Roman', Times, serif;
+}
